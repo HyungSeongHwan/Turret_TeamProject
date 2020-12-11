@@ -1,0 +1,5 @@
+Id	name	HP	Attack	AttackDistance	PlayerSpeed	BulletPrefabs
+1	Prefabs/Airplane	300	60	11	1	Prefabs/Bullet2
+2	Prefabs/Airplane	250	65	13	1.2	Prefabs/Bullet2
+3	Prefabs/Airplane	400	50	10	1	Prefabs/Bullet2
+4	Prefabs/Airplane	350	55	12	1.1	Prefabs/Bullet2
